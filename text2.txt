@@ -1,0 +1,3 @@
+apple, orange, mango,
+grapes, kiwi,
+apricot, papaya, watermelon

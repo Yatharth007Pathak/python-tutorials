@@ -1,0 +1,3 @@
+physics, history, geography,
+hindi, maths, english,
+pyschology, music
